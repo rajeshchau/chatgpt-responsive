@@ -62,7 +62,7 @@ def c():
     import pyttsx3
     import openai
 
-    openai.api_key = "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"
+    openai.api_key = "api-key"
 
     engine = pyttsx3.init()
     voices = engine.getProperty("voices")
