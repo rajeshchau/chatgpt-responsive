@@ -1,4 +1,5 @@
 ChatGPT Integration Project
+
 Welcome to the ChatGPT Integration Project repository! This project enables users to seamlessly integrate OpenAI's GPT-3.5 (ChatGPT) model into their applications for natural language processing tasks.
 
 Overview
